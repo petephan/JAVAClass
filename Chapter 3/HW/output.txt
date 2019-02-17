@@ -1,0 +1,73 @@
+3.12:
+account1 balance: $50.00
+account2 balance: $0.00
+
+Enter withdraw amount for account1: 
+20
+
+Subtracting 20.00 from account1 balance
+
+account1 balance: $30.00
+account2 balance: $0.00
+
+Enter withdraw amount for account2: 10
+
+Subtracting 10.00 from account2 balance
+
+Debit amount exceeded account balance
+account1 balance: $30.00
+account2 balance: $0.00
+
+
+3.13:
+Original invoice information
+Part number: 1234
+Description: Hammer
+Quantity: 2
+Price: $14.95
+Invoice amount: $29.90
+
+Enter part number: 001234
+Enter part description: Yellow Hammer
+Enter quantity: 3
+Enter price: 19.49
+
+Updated invoice information
+Part number: 001234
+Description: Yellow Hammer
+Quantity: 3
+Price: $19.49
+Invoice amount: $58.47
+
+Original invoice information
+Part number: 5678
+Description: PaintBrush
+Quantity: 0
+Price: $0.00
+Invoice amount: $0.00
+
+Enter part number: 5678
+Enter part description: PaintBrush
+Enter quantity: 3
+Enter price: 9.49
+
+Updated invoice information
+Part number: 5678
+Description: PaintBrush
+Quantity: 3
+Price: $9.49
+Invoice amount: $28.47
+
+
+3.14:
+Enter Employee 1 First Name: Bob
+Enter Employee 1 Last Name: Jones
+Enter Employee 1 Monthly Salary: 2875
+Employee 1: Bob Jones; Yearly Salary: $34500.00
+Yearly Salary After 10% Raise: $37950.00
+
+Enter Employee 2 First Name: Susan
+Enter Employee 2 Last Name: Baker
+Enter Employee 2 Monthly Salary: 3150.75
+Employee 2: Susan Baker; Yearly Salary: $37809.00
+Yearly Salary After 10% Raise: $41589.90

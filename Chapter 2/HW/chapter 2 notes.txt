@@ -1,0 +1,107 @@
+Slide 6: Comments on program
+//Exercise number
+//Purpose of program
+//Name / Date
+later in code: comment on big blocks of code (like 1/3 page - half a page)
+
+public static void main( String[] args )
+-wait to explain this in chp 7
+-view as starting point to run a program
+
+public - can be called by other programs
+static - 
+void - no return
+main - name of the method
+String [] args - parameter
+String - type
+String [] - array of strings
+args - name of parameter
+
+line 9 is the only thing that does anything (that is unique)
+System.out.println("Welcome to Java Programming!");
+-called a statement
+
+
+Class:
+{variables
+	
+	....main
+	{
+	}
+
+	method1
+	{
+	}
+
+	method2
+	{
+	}
+}
+
+method is the word for function in Java
+
+Slide 14: Class names start with capital letter and capitalize the first letter of each word
+
+identifier is another word for "name of something"
+
+Test1 - good identifier name, good class name
+test12 - good identifier, bad class name
+2class - bad identifier, bad class name
+$x - good identifier, bad class name
+_y - good identifier, bad class name
+Helloclass - good identifier, valid, but bad class name
+
+
+Slide 32: Class and file name have to be the same name
+
+Slide 35: print doesnt add a line break. println does
+
+Slide 37: \n is an escape character - line break
+
+Slide 38: 
+
+Slide 41: printf - formatted printing
+"%s \n$s \n" - pattern printing
+%s = string
+advantage of doing this is that it is not fixed. Variable is used as placeholder. You can change it on the fly in the future without changing everything
+
+Slide 44:
+Purpose is to take 2 numbers and add them. Display total
+input.nextInt(); - saying to monitor the System.in (system input)
+
+input = the object
+
+Scanner input = new Scanner (System.in);
+Scanner - existing class from java.util.Scanner;
+
+input can be any name
+
+%d - integer type
+%f - double type (decimals)
+
+Slide 64: 
+10%3 = 1 (remainder)
+1%3 = 1
+1/3 = 0. Quotient is 0
+to get decimal, u can do 1/2.0
+
+Slide 70:
+
+Slide 72:
+
+Slide 73: 
+
+HW:
+output is "1 2 3 4"
+
+call the project "Print"
+for the third one use %d
+
+2nd problem is 2.16
+use one of the slide 70, 72, 73
+make sure result says "%d is larger", etc
+
+use 1 output file is fine for all files
+
+
+

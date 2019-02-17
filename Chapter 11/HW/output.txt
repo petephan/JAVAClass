@@ -1,0 +1,4 @@
+Exception A occurred  
+Exception B occurred  
+java.lang.NullPointerException 
+java.io.IOException 

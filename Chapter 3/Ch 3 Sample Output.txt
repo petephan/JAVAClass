@@ -1,0 +1,65 @@
+F:\Teaching\CIS43-JAVA\Master Course\Chapter 3\Exercises\ex03_12>java
+t
+account1 balance: $50.00
+account2 balance: $0.00
+
+Enter withdrawal amount for account1: 20
+
+subtracting 20.00 from account1 balance
+account1 balance: $30.00
+account2 balance: $0.00
+
+Enter withdrawal amount for account2: 10
+
+subtracting 10.00 from account2 balance
+Debit amount exceeded account balance.
+account1 balance: $30.00
+account2 balance: $0.00
+
+F:\Teaching\CIS43-JAVA\Master Course\Chapter 3\Exercises\ex03_12>
+F:\Teaching\CIS43-JAVA\Master Course\Chapter 3\Exercises\ex03_12>cd F
+CIS43-JAVA\Master Course\Chapter 3\Exercises\ex03_13
+
+F:\Teaching\CIS43-JAVA\Master Course\Chapter 3\Exercises\ex03_13>java
+t
+Original invoice information
+Part number: 1234
+Description: Hammer
+Quantity: 2
+Price: 14.95
+Invoice amount: 29.90
+
+Updated invoice information
+Part number: 001234
+Description: Yellow Hammer
+Quantity: 3
+Price: 19.49
+Invoice amount: 58.47
+
+Original invoice information
+Part number: 5678
+Description: PaintBrush
+Quantity: 0
+Price: 0.00
+Invoice amount: 0.00
+
+Updated invoice information
+Part number: 5678
+Description: PaintBrush
+Quantity: 3
+Price: 9.49
+Invoice amount: 28.47
+
+F:\Teaching\CIS43-JAVA\Master Course\Chapter 3\Exercises\ex03_13>cd F
+CIS43-JAVA\Master Course\Chapter 3\Exercises\ex03_14
+
+F:\Teaching\CIS43-JAVA\Master Course\Chapter 3\Exercises\ex03_14>java
+st
+Employee 1: Bob Jones; Yearly Salary: 34500.00
+Employee 2: Susan Baker; Yearly Salary: 37809.00
+
+Increasing employee salaries by 10%
+Employee 1: Bob Jones; Yearly Salary: 37950.00
+Employee 2: Susan Baker; Yearly Salary: 41589.90
+
+F:\Teaching\CIS43-JAVA\Master Course\Chapter 3\Exercises\ex03_14>

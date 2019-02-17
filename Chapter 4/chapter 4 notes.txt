@@ -1,0 +1,71 @@
+Software development
+Analyze
+Design - how many objects, design, the classes
+Implementation (coding)
+Testing
+Maintenance
+
+algorithim - logic flow. Project steps
+
+indentation in java doesnt matter; other languages do... python, indentation is the curly brace
+
+If (…)
+{
+}
+Else
+{
+}
+
+&& = and
+|| = or
+! = not
+
+3 things to look out for loops
+initializing
+updating counter
+
+HW chapter 4:
+practice while/if
+need to only use main, 1 class
+3 employees:
+4.20: do it for one time... then add loop logic to it
+loop 3 times
+{get user input hours
+get user input rate
+calculate
+print}
+
+overtime. 45 hours, 5 hours will be 1.5x pay
+
+output:
+enter hourly rate: 20
+enter hours worked: 30
+pay for employee 1 is $600
+
+enter hourly rate:20
+enter hours worked: 50
+pay for employee 2 is $1100
+
+employee 3
+
+grand total to pay out (total = total +....)
+
+4.21: mix it up... put the biggest one is at the first & last while testing
+to find the largest number, compare first 2 values to find larger, then go on
+store value if larger than the previous
+compare largest with number
+action: if number is bigger, replace largest with number
+
+4.22:
+table.java
+
+output
+N  10*N  100*N  1000*N
+1   10   100    1000
+2  20    200 2000
+...
+5  50  500 5000
+
+use 1 print f only
+
+

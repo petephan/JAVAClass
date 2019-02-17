@@ -1,0 +1,30 @@
+Output:
+
+2.14:
+1 2 3 4
+1 2 3 4 
+1 2 3 4
+
+
+2.16:
+Enter first integer: 1
+Enter second integer: 3
+3 is larger
+
+Enter first integer: 4
+Enter second integer: 2
+4 is larger
+
+Enter first integer: 1
+Enter second integer: 1
+These numbers are equal
+
+
+2.26:
+Enter first Integer: 10
+Enter second Integer: 5
+10 is multiple of 5
+
+Enter first Integer: 10
+Enter second Integer: 3
+10 is NOT multiple of 3

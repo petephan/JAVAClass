@@ -1,0 +1,51 @@
+Chapter 5 solution
+
+for (int counter=1; counter<=5; counter++)
+{
+switch (counter)
+{
+case 1:
+value = number1;
+break;
+case 2:
+value = number2;
+break;
+case 3
+value = number3;
+break;
+case 4:
+value = number4;
+break;
+case 5:
+value = number5;
+break;
+}
+for (int j=1; j<=value;j++)
+System.out.print("*")
+
+
+
+Array edit:
+under scanner input:
+int[] numbers = new int[5];
+
+for (int i=0; i<numbers.length; I++)
+{
+System.out.print("Enter number: ");
+numbers[i]= input.nextInt();
+
+for (int j=1; j<=numbers[counter]; j++)
+System.out.print("*");
+
+
+
+Dice roll problem:
+int [] frequency = new int[7];  //shift stuff, dont want dice roll #0
+int face;
+for (int roll =1; roll<= 6000; roll++)
+{
+face = 1 + randomNumbers.nextInt(6);
+++ frequency[face]; <--concept
+
+
+HW:

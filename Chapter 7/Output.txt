@@ -1,0 +1,64 @@
+7.8:
+The value of element 6 of array f is 6
+
+The five elements of one-dimensional integer array g: 
+g[0] = 8
+g[1] = 8
+g[2] = 8
+g[3] = 8
+g[4] = 8
+
+The total of the 100 elements of floating-point array c is 5050.00
+
+The 11-element array a: 
+a[0] = 6
+a[1] = 20
+a[2] = 38
+a[3] = 51
+a[4] = 58
+a[5] = 88
+a[6] = 2
+a[7] = 77
+a[8] = 79
+a[9] = 68
+a[10] = 29
+
+The array b after copying 1 1-element array a into the first portion of array b: 
+b[0] = 6
+b[1] = 20
+b[2] = 38
+b[3] = 51
+b[4] = 58
+b[5] = 88
+b[6] = 2
+b[7] = 77
+b[8] = 79
+b[9] = 68
+b[10] = 29
+b[11] = 0
+b[12] = 0
+b[13] = 0
+b[14] = 0
+b[15] = 0
+b[16] = 0
+b[17] = 0
+b[18] = 0
+b[19] = 0
+b[20] = 0
+b[21] = 0
+b[22] = 0
+b[23] = 0
+b[24] = 0
+b[25] = 0
+b[26] = 0
+b[27] = 0
+b[28] = 0
+b[29] = 0
+b[30] = 0
+b[31] = 0
+b[32] = 0
+b[33] = 0
+
+The largest value is 77
+The smallest value is 20
+

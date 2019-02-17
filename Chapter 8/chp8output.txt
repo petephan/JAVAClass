@@ -1,0 +1,96 @@
+G:\Teaching\CIS43-JAVA\Master Course\Chapter 8\Exercise\ex8_04>java RectangleTes
+t
+1. Set Length
+2. Set Width
+3. Exit
+Choice: 1
+Enter length: 3.0
+Length: 3.000000
+Width: 1.000000
+Perimeter: 8.000000
+Area: 3.000000
+1. Set Length
+2. Set Width
+3. Exit
+Choice: 2
+Enter width: 4
+Length: 3.000000
+Width: 4.000000
+Perimeter: 14.000000
+Area: 12.000000
+1. Set Length
+2. Set Width
+3. Exit
+Choice: 3
+
+G:\Teaching\CIS43-JAVA\Master Course\Chapter 8\Exercise\ex8_04>cd ..\ex8_06
+
+G:\Teaching\CIS43-JAVA\Master Course\Chapter 8\Exercise\ex8_06>java SavingsAccou
+ntTest
+Monthly balances for one year at .04
+Balances:
+             Saver 1   Saver 2
+Base        $2000.00  $3000.00
+Month 1:    $2006.67  $3010.00
+Month 2:    $2013.36  $3020.03
+Month 3:    $2020.07  $3030.10
+Month 4:    $2026.80  $3040.20
+Month 5:    $2033.56  $3050.33
+Month 6:    $2040.33  $3060.50
+Month 7:    $2047.14  $3070.70
+Month 8:    $2053.96  $3080.94
+Month 9:    $2060.81  $3091.21
+Month 10:   $2067.68  $3101.51
+Month 11:   $2074.57  $3111.85
+Month 12:   $2081.48  $3122.22
+
+After setting interest rate to .05
+Balances:
+Saver 1      Saver 2
+$2090.16    $3135.23
+
+G:\Teaching\CIS43-JAVA\Master Course\Chapter 8\Exercise\ex8_06>
+F:\Teaching\CIS43-JAVA\Master Course\Chapter 8\Exercise\ex8_15>ja
+Enter 1 for format: MM/DD/YYYY
+Enter 2 for format: Month DD, YYYY
+Enter 3 for format: DDD YYYY
+Enter 4 to exit
+Choice: 1
+Enter Month (1-12): 7
+Enter Day of Month: 8
+Enter Year: 2013
+
+MM/DD/YYYY: 7/8/2013
+Month DD, YYYY: July 8, 2013
+DDD YYYY: 189 2013
+
+Enter 1 for format: MM/DD/YYYY
+Enter 2 for format: Month DD, YYYY
+Enter 3 for format: DDD YYYY
+Enter 4 to exit
+Choice: 2
+Enter Month Name: July
+Enter Day of Month: 8
+Enter Year: 2013
+
+MM/DD/YYYY: 7/8/2013
+Month DD, YYYY: July 8, 2013
+DDD YYYY: 189 2013
+
+Enter 1 for format: MM/DD/YYYY
+Enter 2 for format: Month DD, YYYY
+Enter 3 for format: DDD YYYY
+Enter 4 to exit
+Choice: 3
+Enter Day of Year: 190
+Enter Year: 2013
+
+MM/DD/YYYY: 7/9/2013
+Month DD, YYYY: July 9, 2013
+DDD YYYY: 190 2013
+
+Enter 1 for format: MM/DD/YYYY
+Enter 2 for format: Month DD, YYYY
+Enter 3 for format: DDD YYYY
+Enter 4 to exit
+Choice: 4
